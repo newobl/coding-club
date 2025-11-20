@@ -1,5 +1,5 @@
 # coding-club
 
-- Bowen li
+- Bowen Li
 - Test title
 - xxx@gmail.com
